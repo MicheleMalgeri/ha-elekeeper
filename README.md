@@ -1,4 +1,7 @@
 # Home Assistant SAJ eSolar _Elekeeper_ Custom Integration
+This extension is a clone of https://github.com/erelke/ha-esolar that attempt to solve
+some problem with the original code dealing with capturing data of recent version of H1,
+# Home Assistant SAJ eSolar _Elekeeper_ Custom Integration
 
 ![elekeeper](https://github.com/erelke/ha-esolar/blob/main/images/elekeeper.png)
 

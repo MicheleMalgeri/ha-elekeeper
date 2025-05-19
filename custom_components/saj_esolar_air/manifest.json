@@ -1,18 +1,19 @@
 {
   "domain": "saj_esolar_air",
-  "name": "Saj Elekeeper",
+  "name": "Saj Elekeeper - H1 adapted",
   "codeowners": [
     "@erelke",
-    "@faanskit"
+    "@faanskit",
+    "@michele-malgeri"
   ],
   "config_flow": true,
-  "dependencies": [],
+  "dependencies": ["re"],
   "documentation": "https://github.com/erelke/ha-esolar#readme",
   "homekit": {},
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/erelke/ha-esolar/issues",
   "requirements": [],
   "ssdp": [],
-  "version": "2.1.11",
+  "version": "0.0.01",
   "zeroconf": []
 }
