@@ -6,6 +6,7 @@ from email.policy import default
 from typing import Any
 
 import requests
+import re
 import voluptuous as vol
 
 from homeassistant import config_entries
