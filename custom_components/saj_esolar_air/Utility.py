@@ -20,4 +20,4 @@ def find_nonzero_value_with_regex(data, key_pattern, path=None):
             if result is not None:
                 return result
 
-    return None
+    return 0, None
