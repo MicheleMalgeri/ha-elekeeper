@@ -1,6 +1,6 @@
 {
-  "domain": "saj_esolar_air",
-  "name": "Saj Elekeeper - H1 adapted",
+  "domain": "saj_esolar_air_revisisited",
+  "name": "Saj Elekeeper - Revisited",
   "codeowners": [
     "@erelke",
     "@faanskit",
@@ -14,6 +14,6 @@
   "issue_tracker": "https://github.com/erelke/ha-esolar/issues",
   "requirements": [],
   "ssdp": [],
-  "version": "0.0.01",
+  "version": "0.0.1",
   "zeroconf": []
 }

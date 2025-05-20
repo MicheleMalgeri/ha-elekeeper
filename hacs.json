@@ -1,6 +1,6 @@
 {
-    "name": "SAJ Elekeeper",
+    "name": "SAJ Elekeeper - Revisited",
     "homeassistant": "2025.2.2",
-    "render_readme": true,
+    "render_readme": false,
     "country": ["ALL"]
   }
