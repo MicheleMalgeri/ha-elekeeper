@@ -28,8 +28,9 @@ from .const import (
     CONF_REGION_CN
 )
 from .esolar import esolar_web_autenticate, web_get_plant
+from .utility import find_nonzero_value_with_regex
 
-CONF_TITLE = "SAJ eSolar"
+CONF_TITLE = "SAJ eSolar - Revisited"
 
 _LOGGER = logging.getLogger(__name__)
 

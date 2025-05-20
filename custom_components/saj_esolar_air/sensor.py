@@ -25,6 +25,7 @@ from homeassistant.helpers.entity import DeviceInfo
 from homeassistant.helpers.entity_platform import AddEntitiesCallback
 from homeassistant.helpers.update_coordinator import CoordinatorEntity
 from . import ESolarCoordinator
+from .utility import find_nonzero_value_with_regex
 from .const import (
     CONF_INVERTER_SENSORS,
     CONF_MONITORED_SITES,
